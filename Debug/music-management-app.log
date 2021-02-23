@@ -1,0 +1,8 @@
+﻿  Authentication.cpp
+  Collection.cpp
+  Playlist.cpp
+  music-management-app.cpp
+  Generating Code...
+C:\Users\kjunn\source\repos\music-management-app\Playlist.cpp(67): warning C4715: 'Playlist::getSong': not all control paths return a value
+C:\Users\kjunn\source\repos\music-management-app\Collection.cpp(237): warning C4715: 'Collection::getSong': not all control paths return a value
+  music-management-app.vcxproj -> C:\Users\kjunn\source\repos\music-management-app\Debug\music-management-app.exe
